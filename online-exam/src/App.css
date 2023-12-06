@@ -1,0 +1,63 @@
+/* -------------------------------Header-------------------------- */
+.bg-header{
+    background-color: #374f82;
+}
+.logo {
+    cursor: auto;       
+    margin-left: 30px;
+    width: 240px;
+    height: 72px;
+    border-radius: 10px;
+    
+}
+
+.dateheader{
+   color: #D5B263;  
+   text-align: end;
+   padding-right: 59px;
+   font-weight: bold;
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+   height: 5px;
+   
+}
+
+/* ----------------------LOGIN-------------------------- */
+
+.form-control  {
+    width: 100%;
+    padding: 8px;
+    margin: 12px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.submit_button {
+    padding: 8px;
+    background-color: rgb(70, 101, 169);
+    border-radius: 12px;
+    cursor: pointer;
+    color: azure;
+    transition: background-color 0.5s;
+}
+
+ .submit_button:hover {
+    background-color: #9ac3ef;
+}
+.textcolor{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+/* ----------------------------------footer--------------------------------- */
+.custom-footer{
+    
+    color: #D5B263;
+    background-color: #374f82;
+   font-weight: bold;
+   font-size: large;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   font-style: italic;
+
+    
+}
