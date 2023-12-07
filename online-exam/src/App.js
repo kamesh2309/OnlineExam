@@ -7,6 +7,7 @@ const App = () => {
     <div className='container-fluid'>
       <Header/>
       <Login/>
+    
       <Footer/>
       </div>
   )
